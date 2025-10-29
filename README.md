@@ -7,7 +7,7 @@
 
 A deep learning-based computer vision system for automated detection and classification of chili leaf diseases using the Chili Leaf Diseases Dataset from the Krishna River Basin.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset)
@@ -21,7 +21,7 @@ A deep learning-based computer vision system for automated detection and classif
 - [Citation](#citation)
 - [License](#license)
 
-## 🎯 Overview
+## Overview
 
 This project implements a comprehensive solution for chili leaf disease classification using deep learning. The system can accurately identify various diseases affecting chili plants, enabling early detection and intervention for farmers.
 
@@ -31,7 +31,7 @@ This project implements a comprehensive solution for chili leaf disease classifi
 - Comprehensive data preprocessing and augmentation pipeline
 - Model interpretability and visualization tools
 
-## 📊 Dataset
+## Dataset
 
 ### Source
 **Chili Leaf Diseases Dataset from the Krishna River Basin**

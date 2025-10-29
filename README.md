@@ -136,3 +136,7 @@ This project implements a comprehensive solution for chili leaf disease classifi
 - Stratified splitting preserves **class distribution** in both training and validation sets.
 - SimpleCNN is **lightweight but sufficient** for 224×224 images and works with this dataset size.
 
+# Results
+<img width="1006" height="625" alt="image" src="https://github.com/user-attachments/assets/a7637c77-213a-42ee-b4e8-462ff27c1ce2" />
+
+

@@ -40,7 +40,8 @@ This project implements a comprehensive solution for chili leaf disease classifi
   version = {V2},
   doi = {10.17632/ymt8k9bjkn.2},
   url = {https://data.mendeley.com/datasets/ymt8k9bjkn/2}
-} ```
+}
+```
 
 # Methodology
 

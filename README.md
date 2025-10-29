@@ -1,11 +1,10 @@
 # Chili Leaf Disease Classification
-
-Author: [Bagavati Narayanan](https://github.com/baggie11)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12%2B-orange.svg)](https://tensorflow.org)
 [![DOI](https://img.shields.io/badge/DOI-10.17632/ymt8k9bjkn.2-brightgreen.svg)](https://doi.org/10.17632/ymt8k9bjkn.2)
+
+Author: [Bagavati Narayanan](https://github.com/baggie11)
 
 A deep learning-based computer vision system for automated detection and classification of chili leaf diseases using the Chili Leaf Diseases Dataset from the Krishna River Basin.
 
